@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Full-Stack Software Development</title>
+  <desc id="desc">An animated gradient banner for a full-stack software development roadmap.</desc>
+  <defs>
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#172554;#312e81;#0f172a" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#1d4ed8">
+        <animate attributeName="stop-color" values="#1d4ed8;#7c3aed;#0891b2;#1d4ed8" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#2563eb;#9333ea;#06b6d4" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <style>
+      .title { font: 700 42px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #ffffff; letter-spacing: 1px; }
+      .subtitle { font: 400 19px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #dbeafe; }
+      .dot { fill: #ffffff; opacity: .7; }
+    </style>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#background)" />
+  <g fill="none" stroke="#ffffff" stroke-opacity=".16" stroke-width="2">
+    <path d="M0 205 Q180 110 360 190 T720 160 T1200 105" />
+    <path d="M0 230 Q180 135 360 215 T720 185 T1200 130" />
+  </g>
+  <g filter="url(#glow)">
+    <circle class="dot" cx="105" cy="55" r="5"><animate attributeName="cy" values="55;38;55" dur="3s" repeatCount="indefinite" /></circle>
+    <circle class="dot" cx="1060" cy="72" r="4"><animate attributeName="cy" values="72;92;72" dur="4s" repeatCount="indefinite" /></circle>
+    <circle class="dot" cx="970" cy="205" r="6"><animate attributeName="r" values="6;10;6" dur="3.5s" repeatCount="indefinite" /></circle>
+  </g>
+  <text x="600" y="112" text-anchor="middle" class="title">🚀 Full-Stack Software Development</text>
+  <text x="600" y="153" text-anchor="middle" class="subtitle">Web • Apps • Cloud • DevOps • AI</text>
+  <g transform="translate(510 188)" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+    <path d="M0 0l18 18 18-18" />
+    <path d="M54 0l-18 18 18 18" />
+    <path d="M82-3L70 39" />
+    <animateTransform attributeName="transform" type="translate" values="510 188;510 193;510 188" dur="2.5s" repeatCount="indefinite" />
+  </g>
+</svg>
