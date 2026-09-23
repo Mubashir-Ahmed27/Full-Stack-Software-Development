@@ -1,6 +1,6 @@
 <p align="center"><img src="./assets/animated-banner.svg" alt="Animated Full-Stack Software Development banner" width="100%"></p>
 
-p & Cloud Development
+## 💻 Full-Stack Software Development
 
 ### Web Development • App Development • Cloud • DevOps • AI
 
@@ -1991,7 +1991,7 @@ Instead of buying multiple courses/books, use this stack:
 
 ## 📘 W3Schools Documentation Hub
 
-Use W3Schools as a **quick reference, beginner-friendly tutorial, and practice companion** alongside the primary official documentation. W3Schools currently provides tutorials, references, exercises, and examples for many of the core technologies in this roadmap. citeturn0search0turn0search1
+Use W3Schools as a **quick reference, beginner-friendly tutorial, and practice companion** alongside the primary official documentation. W3Schools provides tutorials, references, exercises, and examples for many of the core technologies in this roadmap.
 
 ### 🌐 Core Web
 - [HTML](https://www.w3schools.com/html/) · [HTML Reference](https://www.w3schools.com/tags/)
