@@ -1955,37 +1955,75 @@ Include:
 
 Instead of buying multiple courses/books, use this stack:
 
-| Area          | Primary Free Resource                |
-| ------------- | ------------------------------------ |
-| HTML          | MDN                                  |
-| CSS           | MDN + freeCodeCamp                   |
-| JavaScript    | MDN + javascript.info + freeCodeCamp |
-| TypeScript    | Official TypeScript Handbook         |
-| Git           | Git Book + GitHub Skills             |
-| React         | Official React Docs                  |
-| Node.js       | Official Node Docs + freeCodeCamp    |
-| Express       | Official Express Docs                |
-| Next.js       | Official Next.js Learn               |
-| Bootstrap     | Official Bootstrap Docs              |
-| Tailwind      | Official Tailwind Docs               |
-| GSAP          | Official GSAP Docs                   |
-| Python        | Python Docs + freeCodeCamp           |
-| Flask         | Official Flask Docs                  |
-| Django        | Official Django Docs                 |
-| SQL           | PostgreSQL Docs + SQLBolt            |
-| MongoDB       | MongoDB University                   |
-| Supabase      | Official Supabase Docs               |
-| Docker        | Docker Docs                          |
-| Kubernetes    | Kubernetes Docs                      |
-| OpenShift     | Red Hat Docs + Developer Sandbox     |
-| Istio         | Istio Docs                           |
-| Microservices | Microsoft Learn + Fowler             |
-| Serverless    | AWS/Cloudflare/Google Docs           |
-| CI/CD         | GitHub Actions                       |
-| Testing       | Playwright + Vitest                  |
-| Linux         | Linux Journey                        |
-| AI            | OpenAI + Google AI + Hugging Face    |
-| Career        | GitHub + freeCodeCamp + MDN          |
+| Area          | Primary Free Resource                | W3Schools Documentation |
+| ------------- | ------------------------------------ | ------------------------ |
+| HTML          | MDN                                  | [HTML Tutorial](https://www.w3schools.com/html/) · [HTML Reference](https://www.w3schools.com/tags/) |
+| CSS           | MDN + freeCodeCamp                   | [CSS Tutorial](https://www.w3schools.com/css/) · [CSS Reference](https://www.w3schools.com/cssref/) |
+| JavaScript    | MDN + javascript.info + freeCodeCamp | [JavaScript Tutorial](https://www.w3schools.com/js/) · [JS Reference](https://www.w3schools.com/jsref/) |
+| TypeScript    | Official TypeScript Handbook         | [TypeScript Tutorial](https://www.w3schools.com/typescript/) |
+| Git           | Git Book + GitHub Skills             | [Git Tutorial](https://www.w3schools.com/git/) |
+| React         | Official React Docs                  | [React Tutorial](https://www.w3schools.com/react/) |
+| Node.js       | Official Node Docs + freeCodeCamp    | [Node.js Tutorial](https://www.w3schools.com/nodejs/) · [Node.js Reference](https://www.w3schools.com/nodejs/ref_modules.asp) |
+| Express       | Official Express Docs                | [Node.js Tutorial](https://www.w3schools.com/nodejs/) |
+| Next.js       | Official Next.js Learn               | — |
+| Bootstrap     | Official Bootstrap Docs              | [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) |
+| Tailwind      | Official Tailwind Docs               | [Tailwind CSS Tutorial](https://www.w3schools.com/tailwind/) |
+| GSAP          | Official GSAP Docs                   | — |
+| Python        | Python Docs + freeCodeCamp           | [Python Tutorial](https://www.w3schools.com/python/) |
+| Flask         | Official Flask Docs                  | — |
+| Django        | Official Django Docs                 | [Django Tutorial](https://www.w3schools.com/django/) |
+| SQL           | PostgreSQL Docs + SQLBolt            | [SQL Tutorial](https://www.w3schools.com/sql/) |
+| MongoDB       | MongoDB University                   | [MongoDB Tutorial](https://www.w3schools.com/mongodb/) |
+| Supabase      | Official Supabase Docs               | — |
+| Docker        | Docker Docs                          | — |
+| Kubernetes    | Kubernetes Docs                      | — |
+| OpenShift     | Red Hat Docs + Developer Sandbox     | — |
+| Istio         | Istio Docs                           | — |
+| Microservices | Microsoft Learn + Fowler             | — |
+| Serverless    | AWS/Cloudflare/Google Docs           | — |
+| CI/CD         | GitHub Actions                       | [Git Tutorial](https://www.w3schools.com/git/) |
+| Testing       | Playwright + Vitest                  | — |
+| Linux         | Linux Journey                        | [Linux Tutorial](https://www.w3schools.com/linux/) |
+| AI            | OpenAI + Google AI + Hugging Face    | [AI Tutorial](https://www.w3schools.com/ai/) |
+| Career        | GitHub + freeCodeCamp + MDN          | — |
+
+---
+
+## 📘 W3Schools Documentation Hub
+
+Use W3Schools as a **quick reference, beginner-friendly tutorial, and practice companion** alongside the primary official documentation. W3Schools currently provides tutorials, references, exercises, and examples for many of the core technologies in this roadmap. citeturn0search0turn0search1
+
+### 🌐 Core Web
+- [HTML](https://www.w3schools.com/html/) · [HTML Reference](https://www.w3schools.com/tags/)
+- [CSS](https://www.w3schools.com/css/) · [CSS Reference](https://www.w3schools.com/cssref/)
+- [JavaScript](https://www.w3schools.com/js/) · [JavaScript Reference](https://www.w3schools.com/jsref/)
+- [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)
+- [Accessibility](https://www.w3schools.com/accessibility/)
+- [SVG](https://www.w3schools.com/graphics/svg_intro.asp)
+- [JSON](https://www.w3schools.com/js/js_json.asp)
+
+### ⚛️ Frontend
+- [TypeScript](https://www.w3schools.com/typescript/)
+- [React](https://www.w3schools.com/react/)
+- [Bootstrap 5](https://www.w3schools.com/bootstrap5/)
+- [Tailwind CSS](https://www.w3schools.com/tailwind/)
+- [Sass](https://www.w3schools.com/sass/)
+
+### 🟢 Backend + Databases
+- [Node.js](https://www.w3schools.com/nodejs/)
+- [Python](https://www.w3schools.com/python/)
+- [Django](https://www.w3schools.com/django/)
+- [SQL](https://www.w3schools.com/sql/)
+- [PostgreSQL](https://www.w3schools.com/postgresql/)
+- [MongoDB](https://www.w3schools.com/mongodb/)
+
+### 🛠️ Tools + Practice
+- [Git](https://www.w3schools.com/git/)
+- [Bash](https://www.w3schools.com/bash/)
+- [W3Schools Exercises](https://www.w3schools.com/exercises/)
+- [W3Schools Tutorials](https://www.w3schools.com/tutorials/)
+
+> **Learning rule:** Use W3Schools for quick explanations and hands-on exercises, then use the **official documentation** for deeper, version-specific, and production-critical details.
 
 ---
 
