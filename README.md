@@ -1,25 +1,25 @@
-# Full-Stack-Software-Development
+<p align="center"><img src="./assets/animated-banner.svg" alt="Animated Full-Stack Software Development banner" width="100%"></p>
 
 <p align="center"><img src="./assets/animated-banner.svg" alt="Animated Full-Stack Software Development banner" width="100%"></p>
 
 p & Cloud Development
 
-### IBM Full Stack Software Developer + Modern Web & App Development
+### Web Development • App Development • Cloud • DevOps • AI
 
-### **100% Free Learning Resources Edition**
+### 🆓 100% Free Learning Resources
 
-> A unified roadmap that combines the **IBM Full Stack Software Developer curriculum** with the **Modern Web & App Development curriculum**, replacing paid learning materials with free alternatives.
+> A practical, beginner-to-advanced roadmap combining modern **Full-Stack Web, App & Cloud Development** with free learning resources.
 
 ---
 
 
-## 🗓️ 18-Month Learning Roadmap
+## 🗺️ Roadmap at a Glance
 
 This curriculum is organized into **18 months**, progressing from web/software foundations to modern frontend development, backend engineering, databases, cloud, DevOps, AI-assisted development, mobile development, a production-style capstone, and career preparation.
 
 > **Suggested pace:** 1–2 hours/day, 5–6 days/week. Each month combines learning, hands-on practice, revision, and at least one project.
 
-### 📊 Month-by-Month Overview
+### 📊 18-Month Overview
 
 | Month | Focus | Modules | Main Outcome |
 |---|---|---|---|
@@ -614,7 +614,7 @@ AI → LLM API + AI Features + AI-Assisted Development
 
 ---
 
-## 🧭 18-Month Progression
+## 🧭 Your Learning Journey
 
 ```text
 MONTH 01 → Software + Web Foundations
@@ -639,7 +639,7 @@ MONTH 18 → Capstone + Portfolio + Career
 
 ---
 
-## 🎯 Monthly Study Formula
+## 📚 How to Study Each Month
 
 | Week | Focus |
 |---|---|
@@ -648,7 +648,7 @@ MONTH 18 → Capstone + Portfolio + Career
 | **Week 3** | Build a project |
 | **Week 4** | Finish project + deploy + revise + document |
 
-### Daily Formula
+### ⏱️ Daily Formula
 
 ```text
 📚 Learn        → 30–45 min
