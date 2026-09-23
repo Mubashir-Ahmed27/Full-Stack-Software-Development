@@ -482,29 +482,109 @@ React's official documentation provides a free interactive learning path coverin
 
 ---
 
-# 🎬 MODULE 13 — GSAP & Web Animation
+# 🎬 MODULE 13 — GSAP, Framer Motion & Web Animation
 
 ### Topics
 
-* GSAP basics
+## GSAP
+
+* GSAP fundamentals
 * Tweens
 * Timelines
 * Easing
 * ScrollTrigger
-* Scroll animations
+* Scroll-based animations
 * Text animations
 * Page transitions
-* SVG animation
-* Performance
-* Interactive UI animation
+* SVG animations
+* Interactive animations
+* Animation sequencing
+* Performance optimization
+
+## Framer Motion
+
+* Framer Motion fundamentals
+* Motion components
+* `motion.div`
+* Initial / animate / exit states
+* Transitions
+* Spring animations
+* Variants
+* Gesture animations
+* Hover animations
+* Tap animations
+* Drag interactions
+* Scroll-linked animations
+* Layout animations
+* `AnimatePresence`
+* Shared layout transitions
+* Page transitions
+* Staggered animations
+* React component animations
+* Exit animations
+* Reduced-motion accessibility
+* Framer Motion with Next.js
+* Framer Motion with Tailwind CSS
 
 ### 🆓 Free Resources
 
 * [GSAP Documentation](https://gsap.com/docs/v3/)
 * [GSAP Learning Center](https://gsap.com/learning/)
+* [Motion Documentation](https://motion.dev/docs)
+* [Motion for React](https://motion.dev/docs/react)
+* [Motion Examples](https://motion.dev/examples)
 * [MDN — CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations)
+* [MDN — Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
 
----
+### 🧠 When to Use Which?
+
+| Technology                 | Best For                                                      |
+| -------------------------- | ------------------------------------------------------------- |
+| **CSS Animations**         | Simple UI animations                                          |
+| **Framer Motion / Motion** | React UI, gestures, layout & component animations             |
+| **GSAP**                   | Advanced timelines, scroll animations & complex sequences     |
+| **GSAP + Motion**          | Large React projects requiring both UI and advanced animation |
+
+### 🛠️ Practice Projects
+
+1. Animated React landing page
+2. Framer Motion portfolio
+3. GSAP ScrollTrigger portfolio
+4. Animated navbar
+5. Page transition system
+6. Interactive cards
+7. Drag-and-drop UI
+8. Scroll-based storytelling website
+9. Animated dashboard
+10. **GSAP + Framer Motion portfolio**
+
+### 🎯 Recommended Learning Order
+
+```text
+CSS Transitions
+↓
+CSS Animations
+↓
+Framer Motion / Motion
+↓
+Motion Variants
+↓
+Gestures & Layout Animations
+↓
+AnimatePresence
+↓
+GSAP Fundamentals
+↓
+GSAP Timelines
+↓
+ScrollTrigger
+↓
+Advanced GSAP
+↓
+GSAP + React
+↓
+GSAP + Framer Motion
+```
 
 # ▲ MODULE 14 — Next.js
 
