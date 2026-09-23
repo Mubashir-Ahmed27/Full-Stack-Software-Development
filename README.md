@@ -15,7 +15,7 @@ p & Cloud Development
 
 This curriculum is organized into **18 months**, progressing from web/software foundations to modern frontend development, backend engineering, databases, cloud, DevOps, AI-assisted development, mobile development, a production-style capstone, and career preparation.
 
-> **Suggested pace:** 1–2 hours/day, 5–6 days/week. Each month combines learning, hands-on practice, revision, and at least one project.
+ > **Suggested pace:** 2–3 hours/day, 6 days/week. Each month combines learning, hands-on practice, revision, and project work.nth combines learning, hands-on practice, revision, and at least one project.
 
 ### 📊 18-Month Overview
 
@@ -624,10 +624,10 @@ AI → LLM API + AI Features + AI-Assisted Development
 ### ⏱️ Daily Formula
 
 ```text
-📚 Learn        → 30–45 min
-💻 Code         → 45–90 min
-🛠️ Project      → 30–60 min
-📝 Notes/Review → 10–15 min
+📚 Learn        → 45–60 min
+💻 Code         → 60–90 min
+🛠️ Project      → 45–60 min
+📝 Notes/Review → 15–20 min
 ```
 
 > **Rule:** Don't move to the next month just because the calendar says so. Move forward when you can build something with the current month's skills without blindly following a tutorial.
