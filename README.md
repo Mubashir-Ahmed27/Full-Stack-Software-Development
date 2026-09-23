@@ -1,5 +1,8 @@
 # Full-Stack-Software-Development
-# 🚀 Combined Full Stack Web, App & Cloud Development
+
+<p align="center"><img src="./assets/animated-banner.svg" alt="Animated Full-Stack Software Development banner" width="100%"></p>
+
+p & Cloud Development
 
 ### IBM Full Stack Software Developer + Modern Web & App Development
 
