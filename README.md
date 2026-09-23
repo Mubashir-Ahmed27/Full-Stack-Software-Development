@@ -9,67 +9,652 @@
 
 ---
 
-## 🧭 Roadmap Overview
+
+## 🗓️ 18-Month Learning Roadmap
+
+This curriculum is organized into **18 months**, progressing from web/software foundations to modern frontend development, backend engineering, databases, cloud, DevOps, AI-assisted development, mobile development, a production-style capstone, and career preparation.
+
+> **Suggested pace:** 1–2 hours/day, 5–6 days/week. Each month combines learning, hands-on practice, revision, and at least one project.
+
+### 📊 Month-by-Month Overview
+
+| Month | Focus | Modules | Main Outcome |
+|---|---|---|---|
+| **01** | Software + Web Foundations | 1–2 | Software engineering, Internet, HTTP, browsers, APIs |
+| **02** | HTML + CSS | 3–4 | Semantic, responsive websites |
+| **03** | UI/UX + Accessibility | 5–6 | Accessible, responsive interfaces |
+| **04** | JavaScript Fundamentals | 7 | Interactive browser applications |
+| **05** | Advanced JavaScript | 8 | Modern JS, async programming, APIs |
+| **06** | TypeScript + Git/GitHub | 9–10 | Typed development + professional Git |
+| **07** | React | 11 | Component-based SPAs |
+| **08** | Modern Frontend + Animation | 12–13 | Production-style React UI + animation |
+| **09** | Next.js | 14 | Modern full-stack React applications |
+| **10** | Node.js + Express | 15–16 | Backend services + REST APIs |
+| **11** | Security + Databases | 17–18 | Secure apps + MongoDB/PostgreSQL |
+| **12** | Python + Flask + Django | 19–21 | Python backend/full-stack development |
+| **13** | APIs + Cloud | 22–23 | API architecture + cloud fundamentals |
+| **14** | Docker + Kubernetes | 24–26 | Containers + orchestration |
+| **15** | Microservices + Serverless + DevOps | 27–29 | Distributed systems + CI/CD |
+| **16** | Testing + Infrastructure + Payments | 30–33 | Testing, real-time systems, payments, Supabase |
+| **17** | Mobile + AI + Linux + Deployment | 34–37 | Mobile, AI workflows, Linux, deployment |
+| **18** | Projects + Capstone + Career | 38–40 | Production project + portfolio + career |
+
+---
+
+# 📅 MONTH 01 — Software & Web Foundations
+
+### Modules
+- **Module 1 — Software Engineering Foundations**
+- **Module 2 — Internet & Web Fundamentals**
+
+### Learn
+- SDLC, Agile, software architecture and design patterns
+- Development environments and IDEs
+- Frontend vs backend vs full stack
+- Cloud-native concepts and deployment
+- Basic programming concepts
+- Internet, client/server architecture and HTTP/HTTPS
+- DNS, IP addresses, URLs and domains
+- Browsers, rendering, APIs, cookies, sessions and CDNs
+
+### 🛠️ Projects
+- Developer environment setup
+- HTTP/API exploration
+- Software-engineering notes
+
+### ✅ Month Goal
+Understand **how software and the Web work before writing serious frontend code**.
+
+---
+
+# 📅 MONTH 02 — HTML5 + CSS3
+
+### Modules
+- **Module 3 — HTML5**
+- **Module 4 — CSS3 & Responsive Web Design**
+
+### Learn
+- Semantic HTML, forms, validation and multimedia
+- SEO and accessibility basics
+- CSS selectors, cascade, specificity and box model
+- Typography, Flexbox and CSS Grid
+- Responsive/mobile-first design
+- Media queries, variables, transitions and animations
+
+### 🛠️ Projects
+- Personal landing page
+- Responsive portfolio page
+- Login/register interface
+- Product landing page
+
+### ✅ Month Goal
+Build **responsive websites from scratch without relying on frameworks**.
+
+---
+
+# 📅 MONTH 03 — UI/UX + Accessibility
+
+### Modules
+- **Module 5 — UI Design & Frontend Tools**
+- **Module 6 — Accessibility & Web Standards**
+
+### Learn
+- Figma, wireframes, layouts and components
+- Auto Layout and design systems
+- Developer Mode and pixel-perfect implementation
+- Bootstrap, Tailwind CSS, SVG and icon systems
+- WCAG, ARIA, keyboard navigation and screen readers
+- Accessible forms, focus management and color contrast
+
+### 🛠️ Projects
+- Figma → HTML/CSS implementation
+- Bootstrap landing page
+- Tailwind dashboard
+- Accessible website
+
+### ✅ Month Goal
+Turn a **design into a responsive, accessible frontend**.
+
+---
+
+# 📅 MONTH 04 — JavaScript Fundamentals
+
+### Module
+- **Module 7 — JavaScript Fundamentals**
+
+### Learn
+- Variables, data types and operators
+- Strings, arrays and objects
+- Functions and scope
+- Conditions and loops
+- Events and DOM manipulation
+- Forms and validation
+- Browser APIs
+- LocalStorage and JSON
+- Error handling and debugging
+
+### 🛠️ Projects
+- Calculator
+- Todo App
+- Quiz App
+- Expense Tracker
+
+### ✅ Month Goal
+Build **interactive browser applications using vanilla JavaScript**.
+
+---
+
+# 📅 MONTH 05 — Advanced JavaScript / ES6+
+
+### Module
+- **Module 8 — Advanced JavaScript / ES6+**
+
+### Learn
+- Arrow functions and template literals
+- Destructuring and spread/rest
+- Array methods, Map and Set
+- Higher-order functions and callbacks
+- Promises and Async/Await
+- Fetch API and modules
+- Classes and closures
+- Event loop
+- Optional chaining and nullish coalescing
+- AJAX and REST API consumption
+
+### 🛠️ Projects
+- Weather App
+- GitHub User Search
+- Movie Search App
+- REST API Dashboard
+
+### ✅ Month Goal
+Become comfortable with **modern asynchronous JavaScript and APIs**.
+
+---
+
+# 📅 MONTH 06 — TypeScript + Git/GitHub
+
+### Modules
+- **Module 9 — TypeScript**
+- **Module 10 — Git & GitHub**
+
+### Learn
+**TypeScript**
+- Type annotations and inference
+- Interfaces and type aliases
+- Generics
+- Union/intersection types
+- Type guards and utility types
+- Modules
+- tsconfig.json
+- TypeScript with React and Node.js
+
+**Git/GitHub**
+- Repositories, staging and commits
+- Branches, merge, rebase and cherry-pick
+- Pull Requests and code review
+- Issues and forks
+- Open-source contribution
+- GitHub CLI and GitHub Desktop
+
+### 🛠️ Projects
+- Convert a JavaScript project to TypeScript
+- Create a professional GitHub repository
+- Make an open-source contribution
+
+### ✅ Month Goal
+Write **maintainable typed code and use Git/GitHub professionally**.
+
+---
+
+# 📅 MONTH 07 — React
+
+### Module
+- **Module 11 — React**
+
+### Learn
+- React, JSX and components
+- Props and state
+- Events and conditional rendering
+- Lists and forms
+- Hooks: useState, useEffect and useContext
+- Custom hooks
+- Component architecture
+- React Router
+- API integration
+
+### 🛠️ Projects
+- React Todo App
+- Weather App
+- Blog UI
+- Course platform
+- Admin dashboard
+
+### ✅ Month Goal
+Build **component-based React applications with routing, state and APIs**.
+
+---
+
+# 📅 MONTH 08 — Modern Frontend + Animation
+
+### Modules
+- **Module 12 — Modern Frontend Tooling**
+- **Module 13 — GSAP, Framer Motion & Web Animation**
+
+### Learn
+- Node.js/npm, Vite, ESLint and Prettier
+- Environment variables and Axios
+- Context API, Redux Toolkit, TanStack Query and Zustand
+- Tailwind CSS and shadcn/ui
+- CSS animations
+- Framer Motion / Motion
+- GSAP, timelines and ScrollTrigger
+- Layout/gesture animations and page transitions
+- SVG animation and performance
+- Reduced-motion accessibility
+
+### 🛠️ Projects
+- Animated React landing page
+- Framer Motion portfolio
+- GSAP ScrollTrigger portfolio
+- Animated dashboard
+- GSAP + Motion portfolio
+
+### ✅ Month Goal
+Build **polished, production-style React interfaces**.
+
+---
+
+# 📅 MONTH 09 — Next.js
+
+### Module
+- **Module 14 — Next.js**
+
+### Learn
+- Next.js and App Router
+- Routing and layouts
+- Server and Client Components
+- Data fetching and dynamic routes
+- API routes
+- Metadata and image optimization
+- Authentication
+- Deployment
+- Full-stack Next.js
+
+### 🛠️ Projects
+- Next.js portfolio
+- Blog
+- Dashboard
+- Authentication application
+
+### ✅ Month Goal
+Build **modern full-stack React applications with Next.js**.
+
+---
+
+# 📅 MONTH 10 — Node.js + Express
+
+### Modules
+- **Module 15 — Node.js**
+- **Module 16 — Express.js & Backend APIs**
+
+### Learn
+- Node.js runtime, npm and modules
+- File system, events and streams
+- HTTP and asynchronous programming
+- Express routing and middleware
+- Controllers and services
+- MVC
+- REST APIs and CRUD
+- HTTP methods and status codes
+- API validation
+- Postman and API documentation
+
+### 🛠️ Projects
+- REST API
+- Todo API
+- Blog API
+- Authentication API
+
+### ✅ Month Goal
+Build **real backend services and REST APIs**.
+
+---
+
+# 📅 MONTH 11 — Security + Databases
+
+### Modules
+- **Module 17 — Authentication & Web Security**
+- **Module 18 — Databases**
+
+### Learn
+**Security**
+- Authentication vs authorization
+- Sessions and cookies
+- JWT and password hashing/Bcrypt
+- CORS and HTTPS
+- CSP, XSS, CSRF and SQL Injection
+- OWASP, API security and environment secrets
+
+**Databases**
+- MongoDB documents, collections, CRUD, queries and indexes
+- Aggregation and MongoDB with Node.js
+- PostgreSQL, SQL and relationships
+- JOINs, aggregation, indexes and transactions
+
+### 🛠️ Projects
+- Full-stack authentication system
+- MongoDB CRUD application
+- PostgreSQL CRUD application
+
+### ✅ Month Goal
+Build **secure full-stack applications backed by real databases**.
+
+---
+
+# 📅 MONTH 12 — Python + Flask + Django
+
+### Modules
+- **Module 19 — Python**
+- **Module 20 — Flask**
+- **Module 21 — Django & SQL Databases**
+
+### Learn
+- Python fundamentals, OOP, modules and packages
+- File handling, APIs and JSON
+- NumPy, Pandas and Jupyter
+- Flask routes, REST APIs, CRUD and testing
+- Django projects, apps, URLs, views and templates
+- Models, ORM and migrations
+- Authentication, forms and admin
+- SQL databases and deployment
+
+### 🛠️ Projects
+- Flask REST API
+- Django Blog
+- Django Authentication System
+
+### ✅ Month Goal
+Build **Python-based backend and full-stack applications**.
+
+---
+
+# 📅 MONTH 13 — API Architecture + Cloud
+
+### Modules
+- **Module 22 — Full-Stack API Architecture**
+- **Module 23 — Cloud Computing**
+
+### Learn
+- Frontend ↔ backend architecture
+- REST, CRUD, controllers, services and models
+- Authentication and authorization
+- Validation and error handling
+- API versioning and Swagger/OpenAPI
+- IaaS, PaaS and SaaS
+- Public/private/hybrid cloud
+- Multicloud
+- Cloud-native applications
+- Containers, serverless and microservices
+
+### 🛠️ Projects
+- Production-style REST API
+- OpenAPI documentation
+- Cloud-deployed full-stack application
+
+### ✅ Month Goal
+Understand **how modern full-stack applications are architected and hosted**.
+
+---
+
+# 📅 MONTH 14 — Docker + Kubernetes
+
+### Modules
+- **Module 24 — Docker & Containers**
+- **Module 25 — Kubernetes**
+- **Module 26 — OpenShift & Istio**
+
+### Learn
+- Docker images, containers and Dockerfiles
+- Docker CLI and Compose
+- Volumes, networks and registries
+- Kubernetes clusters, nodes and Pods
+- Services, Deployments and ReplicaSets
+- ConfigMaps, Secrets and YAML
+- Scaling and rolling updates
+- OpenShift and Operators
+- Routes and service mesh
+- Istio, traffic management and observability
+
+### 🛠️ Projects
+- Dockerize a full-stack app
+- Multi-container application
+- Kubernetes deployment
+- Basic service-mesh experiment
+
+### ✅ Month Goal
+Understand **containerization and orchestration**.
+
+---
+
+# 📅 MONTH 15 — Microservices + Serverless + DevOps
+
+### Modules
+- **Module 27 — Microservices**
+- **Module 28 — Serverless**
+- **Module 29 — DevOps & CI/CD**
+
+### Learn
+- Monolith vs microservices
+- Service boundaries and API Gateway
+- Service discovery and communication
+- Scalability and fault tolerance
+- Distributed systems
+- Serverless functions
+- Event-driven applications
+- Cloud Functions
+- CI/CD and GitHub Actions
+- Automated testing
+- Build/deployment pipelines
+- Secrets and monitoring
+
+### 🛠️ Projects
+- Microservices demo
+- Serverless API
+- GitHub Actions CI/CD pipeline
+
+### ✅ Month Goal
+Understand **modern deployment, automation and distributed application architecture**.
+
+---
+
+# 📅 MONTH 16 — Testing + Infrastructure + Payments + Supabase
+
+### Modules
+- **Module 30 — Testing**
+- **Module 31 — Backend Services & Infrastructure**
+- **Module 32 — Payments**
+- **Module 33 — Supabase**
+
+### Learn
+- Unit, integration and E2E testing
+- Vitest, Playwright and Testing Library
+- WebSockets and Socket.IO
+- Redis, caching and message queues
+- File uploads and Cloudinary
+- Background jobs
+- Payment APIs, checkout and webhooks
+- Refunds and transaction verification
+- Supabase Auth
+- PostgreSQL, Storage and Row Level Security
+
+### 🛠️ Projects
+- Real-time chat application
+- Payment-enabled application
+- Supabase SaaS application
+
+### ✅ Month Goal
+Add **testing, real-time communication, storage, payments and scalable backend services**.
+
+---
+
+# 📅 MONTH 17 — Mobile + AI + Linux + Deployment
+
+### Modules
+- **Module 34 — Mobile App Development**
+- **Module 35 — AI-Assisted Software Development**
+- **Module 36 — Linux & CLI**
+- **Module 37 — Deployment & Hosting**
+
+### Learn
+**Mobile**
+- React Native and Expo
+- Navigation and state
+- APIs, authentication and storage
+- Android/iOS builds
+
+**AI**
+- Generative AI
+- AI coding assistants
+- Prompt engineering
+- AI debugging and refactoring
+- AI agents and agentic workflows
+- LLM APIs
+- Responsible AI
+- AI-powered applications
+
+**Linux**
+- Terminal and filesystem
+- Permissions and processes
+- Bash and SSH
+- Package managers
+- Server basics
+
+**Deployment**
+- Vercel, Netlify and GitHub Pages
+- Cloudflare Pages
+- Domains, DNS and SSL
+- Environment variables
+- CI/CD deployment
+
+### 🛠️ Projects
+- React Native application
+- AI-powered web application
+- Linux/CLI deployment workflow
+- Production deployment
+
+### ✅ Month Goal
+Become comfortable **building, deploying and maintaining applications across web, mobile and AI workflows**.
+
+---
+
+# 📅 MONTH 18 — Projects + Capstone + Career
+
+### Modules
+- **Module 38 — Projects**
+- **Module 39 — Full-Stack Cloud Capstone**
+- **Module 40 — GitHub Portfolio & Career**
+
+### 🎯 Capstone
+
+Build **one serious production-style full-stack application**.
+
+### Recommended Stack
+
+Frontend → React + TypeScript + Tailwind CSS + GSAP/Motion + React Router
+
+Backend → Node.js + Express.js + REST API + JWT
+
+Database → PostgreSQL + MongoDB
+
+Infrastructure → Docker + Kubernetes + CI/CD + Cloud Deployment
+
+AI → LLM API + AI Features + AI-Assisted Development
+
+### Capstone Requirements
+- Authentication
+- Authorization
+- CRUD
+- Responsive UI
+- REST API
+- Database
+- File uploads
+- Search
+- Filtering
+- Pagination
+- Validation
+- Error handling
+- Security
+- Testing
+- Docker
+- CI/CD
+- Deployment
+- Documentation
+- AI feature
+
+### 💼 Career
+- Professional GitHub README
+- Pinned repositories
+- Project screenshots
+- Live demos
+- Personal portfolio
+- Resume
+- LinkedIn
+- Freelancing profiles
+- Internship applications
+- Junior developer applications
+- Technical and behavioral interview preparation
+- System/design fundamentals
+
+### ✅ Month Goal
+**Ship → document → deploy → showcase → apply.**
+
+---
+
+## 🧭 18-Month Progression
 
 ```text
-Computer & Software Fundamentals
-          ↓
-Internet & Web Fundamentals
-          ↓
-HTML5
-          ↓
-CSS3 + Responsive Design
-          ↓
-Bootstrap + Tailwind + UI Design
-          ↓
-JavaScript
-          ↓
-Advanced JavaScript / ES6+
-          ↓
-Git + GitHub
-          ↓
-TypeScript
-          ↓
-React
-          ↓
-Modern Frontend Development
-          ↓
-Next.js
-          ↓
-Node.js + Express.js
-          ↓
-REST APIs + Authentication
-          ↓
-MongoDB + PostgreSQL + SQL
-          ↓
-Python
-          ↓
-Flask + Django
-          ↓
-Testing
-          ↓
-Cloud Computing
-          ↓
-Docker
-          ↓
-Kubernetes
-          ↓
-OpenShift + Istio
-          ↓
-Microservices
-          ↓
-Serverless
-          ↓
-CI/CD + DevOps
-          ↓
-AI-Assisted Development
-          ↓
-React Native
-          ↓
-Full-Stack Cloud Capstone
-          ↓
-Portfolio + GitHub + Career
+MONTH 01 → Software + Web Foundations
+MONTH 02 → HTML + CSS
+MONTH 03 → UI/UX + Accessibility
+MONTH 04 → JavaScript
+MONTH 05 → Advanced JavaScript
+MONTH 06 → TypeScript + Git/GitHub
+MONTH 07 → React
+MONTH 08 → Modern Frontend + Animation
+MONTH 09 → Next.js
+MONTH 10 → Node.js + Express
+MONTH 11 → Security + Databases
+MONTH 12 → Python + Flask + Django
+MONTH 13 → API Architecture + Cloud
+MONTH 14 → Docker + Kubernetes
+MONTH 15 → Microservices + Serverless + DevOps
+MONTH 16 → Testing + Infrastructure + Payments + Supabase
+MONTH 17 → Mobile + AI + Linux + Deployment
+MONTH 18 → Capstone + Portfolio + Career
 ```
+
+---
+
+## 🎯 Monthly Study Formula
+
+| Week | Focus |
+|---|---|
+| **Week 1** | Learn fundamentals + take notes |
+| **Week 2** | Deep practice + coding exercises |
+| **Week 3** | Build a project |
+| **Week 4** | Finish project + deploy + revise + document |
+
+### Daily Formula
+
+```text
+📚 Learn        → 30–45 min
+💻 Code         → 45–90 min
+🛠️ Project      → 30–60 min
+📝 Notes/Review → 10–15 min
+```
+
+> **Rule:** Don't move to the next month just because the calendar says so. Move forward when you can build something with the current month's skills without blindly following a tutorial.
 
 ---
 
