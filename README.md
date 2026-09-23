@@ -15,7 +15,7 @@
 
 This curriculum is organized into **18 months**, progressing from web/software foundations to modern frontend development, backend engineering, databases, cloud, DevOps, AI-assisted development, mobile development, a production-style capstone, and career preparation.
 
- > **Suggested pace:** 2–3 hours/day, 6 days/week. Each month combines learning, hands-on practice, revision, and project work.nth combines learning, hands-on practice, revision, and at least one project.
+ > **Suggested pace:** 2–3 hours/day, 6 days/week. Each month combines learning, hands-on practice, revision, and at least one project.
 
 ### 📊 18-Month Overview
 
